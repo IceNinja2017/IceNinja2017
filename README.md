@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IceNinja2017
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C/C++ and Python and Web Development
+- 🌱 I’m currently learning C/C++, Python, Web Development and Game Development with Unity and Godot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
